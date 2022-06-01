@@ -12,7 +12,11 @@ Python program that implements the Sign Up and Sign In pages of an application.
 **//Sing In**
 
 ➡ There are two test accounts.
+
 username: test1, password: 0000, remaining attempts: 0
+
 username: test2, password: 1234, remaining attempts: 3
+
+
 
 ➡ For each account you have 3 attempts and then the account is locked.
