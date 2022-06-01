@@ -1,5 +1,5 @@
 # SignUpInPage-Tkinter
-Sign Up / Sign In page using Tkinter
+**Sign Up / Sign In page using Tkinter**
 
 Python program that implements the Sign Up and Sign In pages of an application.
 
