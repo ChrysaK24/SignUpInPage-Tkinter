@@ -20,3 +20,6 @@ username: test2, password: 1234, remaining attempts: 3
 
 
 ➡ For each account you have 3 attempts and then the account is locked.
+
+//Run: SignUpInPage.py
+//Video preview: App - preview.mp4
